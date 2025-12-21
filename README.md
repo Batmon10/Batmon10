@@ -27,3 +27,11 @@
 
 ### ⚡ Fun fact
 I build things that mix **tech + business**
+
+
+
+
+
+### 📊 GitHub Stats
+
+![Dhruval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batmon10&show_icons=true&theme=tokyonight)
