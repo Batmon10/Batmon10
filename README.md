@@ -1,12 +1,18 @@
-<h1 align="center">Hey 👋 I'm Dhruval Patel</h1>
-<h3 align="center">🚀 Tech + Business Builder | Information Systems</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=700&color=1E90FF&cursorColor=1E90FF&center=true&vCenter=true&width=720&height=55&lines=Startup+Builder;Tech+%2B+Business+Thinker;Manufacturing+%26+AI+Enthusiast;Always+Shipping+Projects">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030616,50:050A30,100:1E90FF&height=240&section=header&text=Batmon10&fontSize=64&fontColor=E6F1FF&animation=twinkling&desc=Dhruval%20Patel%20%7C%20Tech%20%2B%20Business%20Builder%20%7C%20Galaxy%20Mode&descSize=18&descAlignY=68" />
 </p>
 
 <p align="center">
-  🌐 <strong>Portfolio:</strong> <a href="https://dhruvalpatel.net">dhruvalpatel.net</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=700&color=1E90FF&cursorColor=1E90FF&center=true&vCenter=true&width=820&height=55&lines=Galaxy+Mode:+ON;Blue+Cursor+Active;Build+→+Ship+→+Iterate;Systems+%2B+Startups+%2B+Operations" />
+</p>
+
+<p align="center">
+  <a href="https://dhruvalpatel.net" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER%20GALAXY%20MODE-dhruvalpatel.net-000000?style=for-the-badge&logo=vercel&logoColor=1E90FF"/>
+  </a>
+  <a href="https://github.com/Batmon10?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/PROJECTS-View%20Repos-000000?style=for-the-badge&logo=github&logoColor=1E90FF"/>
+  </a>
 </p>
 
 <p align="center">
@@ -19,10 +25,13 @@
 
 ## 🧠 About Me
 - 🎓 Information Systems (Business Systems) @ CSUN  
-- 🏗️ Founder mindset with real manufacturing experience  
+- 🚀 Tech + Business builder with real manufacturing experience  
 - 🤖 Focused on AI, automation & operations  
 - 🌍 USA 🇺🇸 | From India 🇮🇳  
-- ⚡ Build → Ship → Iterate
+- ⚡ Build → Ship → Iterate  
+
+> 🪐 **Real interactive experience (blue cursor + galaxy background)** lives on  
+> 👉 **https://dhruvalpatel.net**
 
 ---
 
@@ -44,13 +53,6 @@
   <img src="https://img.shields.io/badge/After%20Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=1E90FF"/>
 </p>
 
-### 🧠 Business & Ops
-<p>
-  <img src="https://img.shields.io/badge/Operations-000000?style=for-the-badge&logoColor=1E90FF"/>
-  <img src="https://img.shields.io/badge/Supply%20Chain-000000?style=for-the-badge&logoColor=1E90FF"/>
-  <img src="https://img.shields.io/badge/Startup%20Execution-000000?style=for-the-badge&logoColor=1E90FF"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -60,13 +62,20 @@
 - Camera-based defect detection  
 - Predictive maintenance  
 - Focus on plastics & blow-molding  
-- Built with startup execution mindset
+- Built with startup execution mindset  
 
 ### 🔹 Duraplast
 **Plastic Bottle Manufacturing Business**
 - End-to-end operations  
 - Production, QC & logistics  
-- Real revenue, real constraints
+- Real revenue, real constraints  
+
+### 🔹 Dollyplast
+**Plastic Packaging & Manufacturing Business**
+- Similar production ecosystem to Duraplast  
+- Focus on scalable plastic products  
+- Operations, quality control & supply chain  
+- Hands-on business execution  
 
 ---
 
@@ -86,7 +95,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Batmon10/Batmon10/output/snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Batmon10/Batmon10/output/snake-dark.svg" width="100%" />
 </p>
 
 ---
